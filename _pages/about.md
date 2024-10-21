@@ -37,5 +37,7 @@ August 2011 - June 2013
 - Member of the outreach and liaison committee of The International
 Enviorometrics Society (TIES), 2024-Present.
 - Committee member of the local groups of the Royal Statistical Society (RSS).
+- Experience on UKRI grant reviews.
+- PhD external examiner.
 
 
