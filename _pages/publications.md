@@ -9,17 +9,26 @@ author_profile: true
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 {% endif %}
 
-
 ## Changepoint Detection on Daily Home Activity Pattern: A Sliced Poisson Process Method
 **Martínez-Hernández, I.** and Killick, R. (2025). 
 &quot;Changepoint Detection on Daily Home Activity Pattern: 
 A Sliced Poisson Process Method.&quot;
 <i>Biometrics</i>.
 
+## Modelling particle number size distribution: a continuous approach
+**Martínez-Hernández, I.**, Euan, C., Burr, W., Meis, M., Blangiardo, M., 
+and Pirani, M.  (2024)
+&quot;Modelling particle number size distribution: 
+a continuous approach&quot;
+<i>Journal of the Royal Statistical Society Series C</i>.
+[https://doi.org/10.1093/jrsssc/qlae053](https://doi.org/10.1093/jrsssc/qlae053)
+
+
 ## Functional Time Series Analysis and Visualization Based on Records
 **Martínez-Hernández, I.** and Genton, M. G. (2024). 
 &quot;Functional Time Series Analysis and Visualization Based on Records.&quot; 
 <i>Journal of Computational and Graphical Statistics</i>. 
+[https://doi.org/10.1080/10618600.2024.2374578](https://doi.org/10.1080/10618600.2024.2374578)
 
 ## Surface Time Series Models for Large Nonstationary Spatio-Temporal Datasets
 **Martínez-Hernández, I.** and Genton, M. G. (2023). 
