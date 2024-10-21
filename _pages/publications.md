@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+{% if site.author.googlescholar %}
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
+{% endif %}
+
+
 ## Changepoint Detection on Daily Home Activity Pattern: A Sliced Poisson Process Method
 **Martínez-Hernández, I.** and Killick, R. (2025). 
 &quot;Changepoint Detection on Daily Home Activity Pattern: 
