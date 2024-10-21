@@ -13,6 +13,21 @@ citation: 'Martínez-Hernández, I., Genton, M. G., and Gonzaléz-Farías, G. (2
 <i>Computational Statistics & Data Analysis 1</i>. 131.'
 ---
 
+---
+title: "Recent Developments in Complex and Spatially Correlated Functional Data"
+collection: publications
+category: manuscripts
+permalink: /publication/allPapers
+excerpt: ' '
+date: 2020
+venue: 'Brazilian Journal of Probability and Statistics'
+slidesurl: ''
+paperurl: 'http://dx.doi.org/10. 1214/20-BJPS466'
+citation: 'Martínez-Hernández, I., and Genton, M. G. (2020). 
+&quot;Recent Developments in Complex and Spatially Correlated Functional Data.&quot; 
+<i>Brazilian Journal of Probability and Statistics 1</i>. 34(2).'
+---
+
 
 
 
