@@ -30,6 +30,12 @@ August 2011 - June 2013
 - School of Mathematical Sciences, Lancaster University (June, 2021 to December, 2023)
 - Statistics Program, KAUTS (February, 2018 - May, 2021)
 
+## Visiting Experience
+- Economics Department, Universidad Carlos III de Madrid (UC3M), Madrid, Spain, 
+2016.
+- Statistics Program, King Abdullah University of Science and Technology (KAUST),
+2017.
+
 ## Other Experiences
 
 - Program Director of the MSc in Data Science at Lancaster University,
