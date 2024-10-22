@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-Lecturer in Statistics, School of Mathematical Sciences, Lancaster University, UK.
+I am a Lecturer in Statistics, in the School of Mathematical Sciences, 
+at Lancaster University, UK.
 
 i.MartinezHernandez@lancaster.ac.uk
 
