@@ -8,22 +8,23 @@ author_profile: true
 
 ## Changepoint method for a time-dependent sequence of 0-1 values
 
-type: "Talk"
-permalink: /talks/2024-06-Greece
-venue: "Teloglion Cultural Center, Aristotle University of Thessaloniki"
 date: 2024-06
+type: "Talk"
+venue: "Teloglion Cultural Center, Aristotle University of Thessaloniki"
 location: "Thessaloniki, Greece"
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+This was a talk part of the Dynalife event, which part of the cost action
 
+## Surface Time Series Models for Large
+Spatio-Temporal Datasets
 ---
-title: "Conference Proceeding talk 3 on Relevant Topic in Your Field"
-collection: talks
-type: "Conference proceedings talk"
-permalink: /talks/2014-03-01-talk-3
-venue: "Testing Institute of America 2014 Annual Conference"
-date: 2014-03-01
-location: "Los Angeles, CA"
+date: 2014-06
+type: "Talk"
+venue: "Meteo-France"
+location: "Toulouse, France"
 ---
 
-This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+This was the 15th International Meeting on Statistical Climatology 
+(IMSC 2024). 
+
+
