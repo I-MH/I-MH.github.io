@@ -11,7 +11,7 @@ Lecturer in Statistics, School of Mathematical Sciences, Lancaster University, U
 
 i.MartinezHernandez@lancaster.ac.uk
 
-## My research interest
+## 👨‍🔬 My research interest
 My primary research interests lie in developing novel statistical methodologies 
 for analyzing 
 
