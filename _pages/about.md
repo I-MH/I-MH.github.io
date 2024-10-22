@@ -22,7 +22,7 @@ for analyzing
 I am highly motivated by real world problems such as data from Environment, 
 Energy, Health, and Engineering.
 
-## Education/Academic qualification
+## 👨‍🎓 Education/Academic qualification
 
 - Ph.D. in Probability and Statistics, Center for Research in Mathematics, CIMAT, 
 Guanajuato, Mexico. January 2014 - December 2017
