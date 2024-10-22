@@ -16,11 +16,17 @@ This was a talk part of the Dynalife event, which part of the cost action
 
 ## Surface Time Series Models for Large Spatio-Temporal Datasets
 
-date: 2014-06\
+date: 2024-06\
 venue: Meteo-France\
 location: Toulouse, France
 
 This was the 15th International Meeting on Statistical Climatology 
 (IMSC 2024). 
 
+## Surface Time Series Models for Large Spatio-Temporal Datasets
 
+date: 2023-07\
+venue: University of Colorado\
+location: Boulder, USA.
+
+This was the Spatial Statistics 2023 conference: Climate and the Environment. 
