@@ -30,3 +30,10 @@ venue: University of Colorado\
 location: Boulder, USA.
 
 This was the Spatial Statistics 2023 conference: Climate and the Environment. 
+
+## Methodologies of functional time series with possible applications to neuroscience
+
+date: 2023-04\
+venue: Casa Matematica Oaxaca, CMO\
+location: Oaxaca, Mexico.
+
