@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,7 +12,7 @@ at Lancaster University, UK.
 
 i.MartinezHernandez@lancaster.ac.uk
 
-## 👨‍🔬 My research interest
+## My research interest
 My primary research interests lie in developing novel statistical methodologies 
 for analyzing 
 
@@ -22,7 +22,7 @@ for analyzing
 I am highly motivated by real world problems such as data from Environment, 
 Energy, Health, and Engineering.
 
-## 👨‍🎓 Education/Academic qualification
+## Education/Academic qualification
 
 - Ph.D. in Probability and Statistics, Center for Research in Mathematics, CIMAT, 
 Guanajuato, Mexico. January 2014 - December 2017
