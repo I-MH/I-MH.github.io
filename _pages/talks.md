@@ -37,3 +37,9 @@ date: 2023-04\
 venue: Casa Matematica Oaxaca, CMO\
 location: Oaxaca, Mexico.
 
+## Robust Depth-based Estimation of the Functional Autoregressive Model
+
+date: 2023-02\
+venue: Online\
+
+This was a seminar talk at Universidad de Santiago de Compostela, Spain.
