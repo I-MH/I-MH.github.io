@@ -7,7 +7,7 @@ author_profile: true
 
 ## Probability and Stochastic Processes
 
-Master's of Research (MRes) course, [https://www.lancaster.ac.uk/stor-i/](STORi), School of Mathematical Sciences, Lancaster University.
+Master's of Research (MRes) course, [STORi](https://www.lancaster.ac.uk/stor-i/), School of Mathematical Sciences, Lancaster University.
 
 
 The module provides an introduction to probability, random variables, 
@@ -19,7 +19,7 @@ evaluation of complex stochastic properties via both analytical methods and simu
 
 ## Modelling Multilevel and Longitudinal Data
 
-MSc in Statistics course, [https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-msc/2024/](MSc Stat), School of Mathematical Sciences, Lancaster University. 
+MSc in Statistics course, [MSc Stat](https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/statistics-msc/2024/), School of Mathematical Sciences, Lancaster University. 
 
 The module provides methods and computational skills to model 
 common dependence structures seen in hierarchical data, 
