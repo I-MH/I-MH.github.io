@@ -44,11 +44,14 @@ August 2011 - June 2013
 ## Other Experiences
 
 - Program Director of the MSc in Data Science at Lancaster University,
-2024-Present
+2024-Present 
+[https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/data-science-msc/2024/](https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/data-science-msc/2024/)
 - Member of the outreach and liaison committee of The International
 Enviorometrics Society (TIES), 2024-Present.
+[http://www.environmetrics.org](http://www.environmetrics.org)
 - Committee member of the local groups of the Royal Statistical Society (RSS),
-2023-Present
+2023-Present.
+[https://rss.org.uk/membership/rss-groups-and-committees/groups/lancashire-east-cumbria/](https://rss.org.uk/membership/rss-groups-and-committees/groups/lancashire-east-cumbria/)
 - Experience on UKRI grant reviews.
 - PhD external examiner.
 
