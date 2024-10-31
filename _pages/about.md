@@ -16,11 +16,17 @@ i.MartinezHernandez@lancaster.ac.uk
 My primary research interests lie in developing novel statistical methodologies 
 for analyzing 
 
-1. large-scale and complex time series and 
-1. spatio-temporal data. 
+1. Large-scale and complex time series.
+1. Large spatio-temporal data. 
+1. Nonstationary time series data
+1. Functional data and continuous processes
+1. Methodologies for Point Processes
 
 I am highly motivated by real world problems such as data from Environment, 
 Energy, Health, and Engineering.
+
+If you are **interested in pursuing a PhD** in any (or related) of the above 
+topics, please contact me.
 
 ## Education/Academic qualification
 
