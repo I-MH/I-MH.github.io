@@ -12,7 +12,7 @@ date: 2024-06\
 venue: Teloglion Cultural Center, Aristotle University of Thessaloniki\
 location: Thessaloniki, Greece
 
-This was a talk part of the Dynalife event, which part of the cost action
+This was a talk part of the Dynalife event, part of the cost action
 
 ## Surface Time Series Models for Large Spatio-Temporal Datasets
 

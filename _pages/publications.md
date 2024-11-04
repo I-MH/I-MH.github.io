@@ -16,6 +16,8 @@ A Sliced Poisson Process Method.&quot;
 <i>Biometrics</i>.
 [https://doi.org/10.1093/biomtc/ujae114](https://doi.org/10.1093/biomtc/ujae114)
 
+[https://github.com/I-MH/changepoint-nhpp](R Code)
+
 ## Modelling particle number size distribution: a continuous approach
 **Martínez-Hernández, I.**, Euan, C., Burr, W., Meis, M., Blangiardo, M., 
 and Pirani, M.  (2024)
