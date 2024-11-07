@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-## Evolution of statistical earthquake models to account for 
-measurement errors and dependence 
+## Evolution of statistical earthquake models to account for measurement errors and dependence 
 
 This is a STORi PhD project (Wanchen Yue).
 
