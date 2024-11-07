@@ -6,7 +6,11 @@ author_profile: true
 ---
 
 
-## STORi: DSI: Evolution of statistical earthquake models to account for 
+## Evolution of statistical earthquake models to account for 
 measurement errors and dependence 
 
-This is a PhD project (Wanchen Yue).
+This is a STORi PhD project (Wanchen Yue).
+
+## Spatio-temporal functional data analysis on manifold domains
+
+This is a PhD project (Tom Keany).
