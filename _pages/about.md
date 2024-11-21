@@ -55,6 +55,8 @@ August 2011 - June 2013
 - Member of the outreach and liaison committee of The International
 Enviorometrics Society (TIES), 2024-Present.
 [http://www.environmetrics.org](http://www.environmetrics.org)
+- Member of the leadership team of the Data Science Institute at LU, 2024-Present.
+[https://www.lancaster.ac.uk/dsi/about-us/leadership-team/](https://www.lancaster.ac.uk/dsi/about-us/leadership-team/)
 - Committee member of the local groups of the Royal Statistical Society (RSS),
 2023-Present.
 [https://rss.org.uk/membership/rss-groups-and-committees/groups/lancashire-east-cumbria/](https://rss.org.uk/membership/rss-groups-and-committees/groups/lancashire-east-cumbria/)
