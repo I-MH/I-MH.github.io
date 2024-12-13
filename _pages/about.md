@@ -49,6 +49,8 @@ August 2011 - June 2013
 
 ## Other Experiences
 
+- Associate Editor, Journal of the International Environmetrics Society, 2024-Present
+[https://onlinelibrary.wiley.com/page/journal/1099095x/homepage/editorialboard.html](https://onlinelibrary.wiley.com/page/journal/1099095x/homepage/editorialboard.html)
 - Program Director of the MSc in Data Science at Lancaster University,
 2024-Present 
 [https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/data-science-msc/2024/](https://www.lancaster.ac.uk/study/postgraduate/postgraduate-courses/data-science-msc/2024/)
