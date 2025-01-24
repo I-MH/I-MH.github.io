@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+## Israel Martinez Hernandez 
 I am a Lecturer in Statistics, in the School of Mathematical Sciences, 
 at Lancaster University, UK. [Link to UL](https://www.lancaster.ac.uk/maths/people/israel-martinez-hernandez)
 
