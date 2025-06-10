@@ -10,7 +10,7 @@ redirect_from:
 I am a Lecturer in Statistics, in the School of Mathematical Sciences, 
 at Lancaster University, UK. [Link to UL](https://www.lancaster.ac.uk/maths/people/israel-martinez-hernandez)
 
-i.MartinezHernandez@lancaster.ac.uk
+i.Martinez@lancaster.ac.uk
 
 ## My research interest
 My primary research interests lie in developing novel statistical methodologies 
